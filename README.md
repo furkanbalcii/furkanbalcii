@@ -16,6 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanbalcii&show_icons=true&locale=en&layout=compact" alt="furkanbalcii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanbalcii&show_icons=true&locale=en" alt="furkanbalcii" /></p>
-
-
-![Snake animation](https://raw.githubusercontent.com/{furkanbalcii}/{furkanbalcii}/output/github-contribution-grid-snake-dark.svg)
+<div>
+  ![Snake animation](https://github.com/furkanbalcii/furkanbalcii/blob/output/github-contribution-grid-snake.svg)
+</div>
