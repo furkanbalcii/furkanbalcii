@@ -1,11 +1,13 @@
-[![MasterHead](http://www.halildurmus.com/2020/06/22/kodlar-nasil-calisir/)
+![MasterHead](http://www.techsoft.com.tr/foto/tur/orta/temiz-kod-yazma-pratikleri-41801.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammmed Furkan</h1>
 <h3 align="center">I am a computer engineering student.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/23a84626b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="23a84626b" height="30" width="40" /></a>
 <a href="https://instagram.com/furkanbalci234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanbalci234" height="30" width="40" /></a>
+<a href="https://discord.gg/furkanb9246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="furkanb9246" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
